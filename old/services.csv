@@ -1,0 +1,44 @@
+ServiceName,ServiceFriendlyName
+AJRouter,AllJoyn Router Service
+ALG,Application Layer Gateway
+BITS,Background Intelligent Transfer
+BDESVC,Bitlocker Drive Encryption
+wbengine,Block Level Backup Engine
+BthHFSrv,Bluetooth Handsfree Service
+bthserv,Bluetooth Support Service
+DPS,Diagnostic Policy
+WdiServiceHost,Diagnostic Service Host
+WdiSystemHost,Diagnostic System Host
+DiagTrack,Diagnostics Tracking
+EFS,Encrypting File System
+Fax,Fax
+FDResPub,Function Discovery Resource Publication
+lfsvc,GeoLocation
+HomeGroupListener,Home Group Listener
+HomeGroupProvider,Home Group Provider
+SharedAccess,Internet Connection Sharing (ICS)
+wlidsvc,Microsoft Account Sign-in Assistant
+smphost,Microsoft Software Shad ow Copy Provider
+CscService,Offline Files
+defragsvc,Optimize drives
+PcaSvc,Program Compatibility Assistant
+RetailDemo,Retail Demo
+SstpSvc,ecure Socket Tunneling Protocol
+ShellHWDetection,Shell Hardware Detection
+SNMPTRAP,SNMP Trap
+SSDPSRV,SSDP Discovery
+WiaRpc,Still Image Acquisition Events
+TapiSrv,Telephony
+upnphost,UPnP Device Host
+VSS,Volume Shadow Copy
+WcsPlugInService,Windows Color System
+wcncsvc,Windows Connect Now - Config Registrar
+WerSvc,Windows Error Reporting 
+stisvc,Windows Image Acquisition (WIA)
+WMPNetworkSvc,Windows Media Player Network Sharing
+icssvc,Windows Mobile Hotspot
+WlanSvc,WLAN AutoConfig
+WWanSvc,WWAN AutoConfig
+XblAuthManager,Xbox Live Auth Manager
+XblGameSave,Xbox Live Game Save
+XboxNetApiSvc,Xbox Live Networking Service
